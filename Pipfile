@@ -6,10 +6,11 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
-jupyterlab = "*"
-jupyter = "*"
 
 [dev-packages]
+jupyter = "*"
+jupyterlab = "*"
+prompt-toolkit = "*"
 
 [requires]
 python_version = "3.6"
