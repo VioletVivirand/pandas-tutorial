@@ -11,6 +11,7 @@ pandas = "*"
 jupyter = "*"
 jupyterlab = "*"
 prompt-toolkit = "*"
+jupyter-http-over-ws = "*"
 
 [requires]
 python_version = "3.6"
